@@ -1,0 +1,114 @@
+*{
+  margin: 0px;
+}
+
+.header{
+    border-bottom :#ccc 3px solid;
+    background: #ebf1da;
+    
+    
+}
+
+.header input{
+    width : 70% !important;
+    height: 40px;
+    background-color : #cbcac5;
+    border : none;
+    padding: 10px;
+    margin-right: 0 !important;
+}
+
+.header [id = 'btnsearch']{
+    background-color : #f4cb0b;
+    border : none;
+    height: 40px;
+    color : white !important;
+    text-decoration : none;
+    margin-left: 0 !important;
+}
+
+ .headsearch{
+  display: inline-block;
+  min-width: 50% !important;
+}
+
+
+
+.finds{
+    word-spacing : 1px; 
+}
+
+.container{
+
+ 
+  min-width: 100%;
+  padding: 0;
+  left: 0 !important;
+  border: none;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  
+}
+
+h1{
+    color : #000000 !important; 
+    
+}
+.heading{
+    text-align : center;
+}
+
+
+.scrollmenu{
+  overflow: auto;
+  white-space: nowrap;
+  background-color: white;
+  text-align: left;
+  padding: 10px;
+  min-width: 18%;
+  float: left;
+  margin-left: none !important;
+  
+
+}
+
+.ladyshoe{
+  border-bottom: solid 2px #ccc;
+}
+
+.content{
+  margin-left: 18%;
+ 
+}
+
+.scrollmenu a {
+  color: #b5afaf;
+}
+
+.scrollmenu a:hover {
+  color: #f5ad13;
+}
+
+.scrollmenu h4{
+  font-weight: bold;
+  font-size: 15;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-bottom: 2px;
+}
+
+.sizescroll{
+  padding: 0 !important;
+}
+
+.sizescrollable{
+  padding: 0 !important;
+  overflow: auto;
+  white-space: nowrap;
+  text-align: left;
+  padding: 10px;
+  max-height: 100px;
+  background-color: #f3f2f2;
+}
+
+
+
